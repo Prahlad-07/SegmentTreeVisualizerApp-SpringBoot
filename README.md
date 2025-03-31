@@ -45,7 +45,7 @@ This is a JAVA APP named **Segment Tree 🌳 Visualizer**. This app shows the bu
 
 ## 🌍 Connect with Me
 Feel free to connect with me through my LinkedIn profile:
-[Prahlad Yadav - LinkedIn](https://www.linkedin.com/in/prahlady444/)
+[Prahlad Yadav - LinkedIn](https://www.linkedin.com/in/prahlad-yadav-478040257/)
 
 ## ⚙️ Setup & Installation
 Follow these steps to get your development environment up and running:
