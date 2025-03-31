@@ -3,57 +3,75 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-
-  <h3 align="center"> Segment Tree 🌳 Visualizer Project </h3>
-
- <p align="center">
-    <br />
-    <br />
-    <br />
+  <img src="https://raw.githubusercontent.com/Prahlad-07/SegmentTreeVisualizerApp-SpringBoot/main/logo.png" alt="Logo" width="80"/>
+  <h3 align="center"> Segment Tree 🌳 Visualizer </h3>
+  <p align="center">
+    <em>Visualize, query, and animate your Segment Trees with ease!</em>
   </p>
+  <br />
+  <br />
+  <br />
 </p>
 
-hello everyone !! 😁
+---
 
-<!-- ABOUT THE PROJECT -->
 ## About The Project
-This is a JAVA APP named **Segment Tree 🌳 Visualizer**. This app shows the building visualization of a Segment Tree through animation for functions like Sum, Max, Min, and Xor. I have also added a query feature that accepts `l` and `r` integer values (indices between which the query has to be processed, 0-based index). The animation shows how the query works on the Segment Tree, and the highlighted nodes at the end of the query indicate which nodes are part of the answer (based on the query type, i.e., min, max, sum, xor).
+
+Welcome to the **Segment Tree 🌳 Visualizer**! This **Java-based application** enables you to **visualize, query, and animate** the construction of a Segment Tree for different operations such as Sum, Max, Min, and XOR.
+
+With **real-time animations** and a **query feature**, this app helps users to interactively explore how Segment Trees work. You can visualize operations by querying specific index ranges and see how nodes are updated and highlighted, giving you a clear understanding of the underlying structure.
 
 [![Segment Tree Max Range Screenshot](https://raw.githubusercontent.com/Prahlad-07/SegmentTreeVisualizerApp-SpringBoot/main/Screenshot%202025-04-01%20002504.png)](https://example.com)
-[![Segment Tree Min Range Screenshot](https://github.com/Prahlad-07/SegmentTreeVisualizerApp-SpringBoot/blob/main/Screenshot%202025-04-01%20002834.png)
 
+### Features
+- **Segment Tree Construction Visualization**: Watch as your array turns into a segment tree.
+- **Querying**: Perform range queries like sum, max, min, and xor between indices `l` and `r`.
+- **Updates**: Modify specific elements in the tree and see the effects in real-time.
+- **Animated Operations**: Each operation is animated, making it easy to follow the process.
 
 ### Visualizing Segment Tree Operations
-- **Create** a Segment Tree from an array of numbers.
-- **Query** the tree for operations such as sum, max, min, or XOR between indices `l` and `r`.
-- **Update** specific elements in the tree and see how it affects the overall tree structure.
-- **Animate** each operation to help users visually understand how the tree works.
-- 
-[![Segment Tree Max Range Screenshot](https://github.com/Prahlad-07/SegmentTreeVisualizerApp-SpringBoot/blob/main/Screenshot%202025-04-01%20002834.png)
-[![Segment Tree Min Range Screenshot](https://raw.githubusercontent.com/Prahlad-07/SegmentTreeVisualizerApp-SpringBoot/main/Screenshot%202025-04-01%20002504.png)](https://example.com)
+- **Build**: From an array of numbers, a Segment Tree is constructed.
+- **Query**: Get the sum, max, min, or XOR for a range `[l, r]` of indices.
+- **Update**: Modify elements in the tree and immediately see the updates.
+- **Animation**: Observe the tree as nodes are updated, queried, or altered.
 
+[![Segment Tree Min Range Screenshot](https://raw.githubusercontent.com/Prahlad-07/SegmentTreeVisualizerApp-SpringBoot/main/Screenshot%202025-04-01%20002834.png)](https://example.com)
+
+---
 
 ## 🚀 Features
-- **Visualization of Segment Tree construction** through animations for operations like Sum, Max, Min, and XOR.
-- **Query functionality** to find sums, max, min, or xor of a given range of indices (0-based).
-- **Update functionality** that allows users to modify values in the tree and see the change in real-time.
-- **Animated operations** that highlight nodes involved in the query result.
+
+- **Interactive Visualizations** for Sum, Max, Min, and XOR operations.
+- **Real-time Querying** to explore various range operations.
+- **Dynamic Updates** that modify the tree and visually show the impact.
+- **Node Highlighting**: Nodes involved in a query are highlighted in the animation.
+- **Clean, easy-to-follow animations** for understanding Segment Tree operations.
+
+---
 
 ## 🛠️ Tech Stack
-- **Backend:** Java, Spring Boot
-- **Build Tool:** Maven
-- **API Testing:** Postman
-- **Frontend (Optional):** Can be integrated with a frontend of your choice for visualization.
+
+- **Backend**: Java, Spring Boot
+- **Build Tool**: Maven
+- **API Testing**: Postman
+- **Frontend (Optional)**: Can be integrated with any frontend for a visual representation of the tree.
+
+---
 
 ## 🌍 Connect with Me
-Feel free to connect with me through my LinkedIn profile:
-[Prahlad Yadav - LinkedIn](https://www.linkedin.com/in/prahlad-yadav-478040257/)
-Email-prahlady444@gmail.com
+
+Let's stay connected! Feel free to reach out:
+
+- [LinkedIn](https://www.linkedin.com/in/prahlad-yadav-478040257/)
+- Email: [prahlady444@gmail.com](mailto:prahlady444@gmail.com)
+
+---
 
 ## ⚙️ Setup & Installation
-Follow these steps to get your development environment up and running:
+
+Get started with this project by following the instructions below to set up your local environment.
 
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/Prahlad-07/SegmentTreeVisualizerApp-SpringBoot.git
-cd segment-tree-visualizer
+cd SegmentTreeVisualizerApp-SpringBoot
