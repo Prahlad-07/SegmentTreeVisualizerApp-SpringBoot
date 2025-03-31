@@ -48,11 +48,12 @@ This is a JAVA APP named **Segment Tree 🌳 Visualizer**. This app shows the bu
 ## 🌍 Connect with Me
 Feel free to connect with me through my LinkedIn profile:
 [Prahlad Yadav - LinkedIn](https://www.linkedin.com/in/prahlad-yadav-478040257/)
+Email-prahlady444@gmail.com
 
 ## ⚙️ Setup & Installation
 Follow these steps to get your development environment up and running:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/segment-tree-visualizer.git
+git clone https://github.com/Prahlad-07/SegmentTreeVisualizerApp-SpringBoot.git
 cd segment-tree-visualizer
