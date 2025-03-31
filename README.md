@@ -28,8 +28,8 @@ This is a JAVA APP named **Segment Tree 🌳 Visualizer**. This app shows the bu
 - **Update** specific elements in the tree and see how it affects the overall tree structure.
 - **Animate** each operation to help users visually understand how the tree works.
 
-[product-screenshot]: RangeMax.png
-[product-screenshot1]: RangeMin.png
+[product-screenshot]: [RangeMax.png](https://github.com/Prahlad-07/SegmentTreeVisualizerApp-SpringBoot/blob/main/Screenshot%202025-04-01%20002504.png)
+[product-screenshot1]:[ RangeMin.png](https://github.com/Prahlad-07/SegmentTreeVisualizerApp-SpringBoot/blob/main/Screenshot%202025-04-01%20002504.png)
 
 ## 🚀 Features
 - **Visualization of Segment Tree construction** through animations for operations like Sum, Max, Min, and XOR.
