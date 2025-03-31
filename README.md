@@ -20,7 +20,7 @@ hello everyone !! 😁
 This is a JAVA APP named **Segment Tree 🌳 Visualizer**. This app shows the building visualization of a Segment Tree through animation for functions like Sum, Max, Min, and Xor. I have also added a query feature that accepts `l` and `r` integer values (indices between which the query has to be processed, 0-based index). The animation shows how the query works on the Segment Tree, and the highlighted nodes at the end of the query indicate which nodes are part of the answer (based on the query type, i.e., min, max, sum, xor).
 
 [![Segment Tree Max Range Screenshot](https://raw.githubusercontent.com/Prahlad-07/SegmentTreeVisualizerApp-SpringBoot/main/Screenshot%202025-04-01%20002504.png)](https://example.com)
-[![Segment Tree Min Range Screenshot](https://raw.githubusercontent.com/Prahlad-07/SegmentTreeVisualizerApp-SpringBoot/main/Screenshot%202025-04-01%20002504.png)](https://example.com)
+[![Segment Tree Min Range Screenshot](https://github.com/Prahlad-07/SegmentTreeVisualizerApp-SpringBoot/blob/main/Screenshot%202025-04-01%20002834.png)
 
 
 ### Visualizing Segment Tree Operations
@@ -29,7 +29,7 @@ This is a JAVA APP named **Segment Tree 🌳 Visualizer**. This app shows the bu
 - **Update** specific elements in the tree and see how it affects the overall tree structure.
 - **Animate** each operation to help users visually understand how the tree works.
 - 
-[![Segment Tree Max Range Screenshot](https://raw.githubusercontent.com/Prahlad-07/SegmentTreeVisualizerApp-SpringBoot/main/Screenshot%202025-04-01%20002504.png)](https://example.com)
+[![Segment Tree Max Range Screenshot](https://github.com/Prahlad-07/SegmentTreeVisualizerApp-SpringBoot/blob/main/Screenshot%202025-04-01%20002834.png)
 [![Segment Tree Min Range Screenshot](https://raw.githubusercontent.com/Prahlad-07/SegmentTreeVisualizerApp-SpringBoot/main/Screenshot%202025-04-01%20002504.png)](https://example.com)
 
 
